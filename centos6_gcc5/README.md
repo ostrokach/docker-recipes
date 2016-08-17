@@ -1,4 +1,4 @@
-# CentOS 6 - GCC 5 Docker Image
+# CentOS 6 / GCC 5 Docker Image
 
 
 ## Build container

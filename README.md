@@ -5,5 +5,5 @@ Recipes for docker images available from [my dockerhub](https://hub.docker.com/u
 
 ## List
 
-[centos6_gcc5](centos6-gcc5)
+[centos6_gcc5](centos6_gcc5)
 

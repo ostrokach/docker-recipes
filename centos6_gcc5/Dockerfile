@@ -1,7 +1,7 @@
 FROM centos:centos6
 
 # Install repo GCC
-RUN yum install -y perl gcc gcc-c++ wget xz libgcc glibc-devel glibc-headers && \
+RUN yum install -y perl gcc gcc-c++ wget xz libgcc glibc-devel glibc-headers git && \
     yum -y clean all
 
 # Test repo GCC
