@@ -24,7 +24,7 @@ RUN mkdir /tmp/tests && \
 # http://en.librehat.com/blog/build-gcc-5-dot-2-on-rhel-6/
 
 # Download and extract source code
-ENV GCC_VERSION "5.4.0"
+ENV GCC_VERSION "5.2.0"
 RUN cd /tmp && \
     wget --no-verbose \
         http://ftpmirror.gnu.org/gcc/gcc-${GCC_VERSION}/gcc-${GCC_VERSION}.tar.bz2 && \
